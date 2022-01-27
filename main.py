@@ -1,6 +1,7 @@
 from pyrogram import Client
 from tkinter import *
 
+
 app = Client("my_account")
 
 
